@@ -94,8 +94,8 @@ This library depends on [BTUtils](https://github.com/BolivarTech/BTUtils) librar
 
 ## License
 
-Copyright © [BolivarTech](https://www.bolivartech.com) 2022 All Rights Reserved.
+Copyright © [BolivarTech](https://www.bolivartech.com) 2023 All Rights Reserved.
 
-BtCrypto and CuaimaCrypt © 2022 by [Julian Bolivar](https://www.bolivartech.com) is licensed under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+BtCrypto and CuaimaCrypt © 2023 by [Julian Bolivar](https://www.bolivartech.com) is licensed under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 Please see [License File](LICENSE.md) for more information.
