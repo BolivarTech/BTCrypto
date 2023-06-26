@@ -36,19 +36,19 @@ CuaimaCrypt-Equation
 
 Where N is the number of blocks in the algorithm.
 
-|Number of Blocks N | CuaimaCrypt’s Configuration Combinations | Equivalent Key Bits Length |
-|-------------------|------------------------------------------|----------------------------|
-| 2 | 3.6855x10 ^ 165                          | 550 |
-| 4 | 5.4648x10 ^324                           | 1078 |
-| 6 | 7.1220x10 ^ 484                          | 1610 |
-| 9 | 2.0384x10 ^ 726                          | 2412 |
-| 16 | 5.6466x10 ^ 1293 | 4297 |
-| 32 | 2.0153x10 ^ 2603 | 8647 |
-| 64 | 1.8187x10 ^ 5250 | 17440 |
-| 128 | 8.2660x10 ^ 10600 | 35215 |
-| 256 | 5.9661x10 ^ 21416 | 71144 |
-| 512 | 4.2701x10 ^ 43278 | 143768 |
-| 1024 | 4.6637x10 ^ 87463 | 290548 |
+| Number of Blocks N | CuaimaCrypt’s Configuration Combinations | Equivalent Key Bits Length |
+|--------------------|------------------------------------------|----------------------------|
+| 2                  | 3.6855x10 ^ 165                          | 550                        |
+| 4                  | 5.4648x10 ^ 324                          | 1078                       |
+| 6                  | 7.1220x10 ^ 484                          | 1610                       |
+| 9                  | 2.0384x10 ^ 726                          | 2412                       |
+| 16                 | 5.6466x10 ^ 1293                         | 4297                       |
+| 32                 | 2.0153x10 ^ 2603                         | 8647                       |
+| 64                 | 1.8187x10 ^ 5250                         | 17440                      |
+| 128                | 8.2660x10 ^ 10600                        | 35215                      |
+| 256                | 5.9661x10 ^ 21416                        | 71144                      |
+| 512                | 4.2701x10 ^ 43278                        | 143768                     |
+| 1024               | 4.6637x10 ^ 87463                        | 290548                     |
 
 In perspective at the observable universe we have in a gross underestimation of 1x10^29 stars according to astronomers'
 estimates. If we compare these values with known symmetric key algorithms we can see:
@@ -96,6 +96,6 @@ This library depends on [BTUtils](https://github.com/BolivarTech/BTUtils) librar
 
 Copyright © [BolivarTech](https://www.bolivartech.com) 2022 All Rights Reserved.
 
-ISO WIM Costumizer © 2022 by [Julian Bolivar](https://www.bolivartech.com) is licensed under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+BtCrypto and CuaimaCrypt © 2022 by [Julian Bolivar](https://www.bolivartech.com) is licensed under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 Please see [License File](LICENSE.md) for more information.
