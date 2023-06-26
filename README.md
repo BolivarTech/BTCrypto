@@ -4,7 +4,7 @@
 ![licence](https://img.shields.io/badge/language-Java-brightgreen.svg?style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
 
-Implements cryptographic algorithms on Java, including [CuaimaCrypt](#What is CuaimaCrypt).
+Implements cryptographic algorithms on Java, including [CuaimaCrypt](#what-is-cuaimaCrypt).
 
 This project is provided "AS IS", no warranty, no responsibilities, no more documentation that the one included in this
 repository.
