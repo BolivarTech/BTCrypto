@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BTCrypto">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/BTCrypto.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
